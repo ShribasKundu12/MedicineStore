@@ -67,7 +67,7 @@
       <p>Learn about ideal temperature conditions and expiration date handling for your home medicine kit.</p>
     </article>
     <article>
-      <h2>Benefits of Online Medicine Orders</h2>
+      <h2>Benefits of Online Medicine Orders..</h2>
       <p>Discover how online medical shopping is transforming access to healthcare and what makes Med+ unique in this space.</p>
     </article>
   </main>
